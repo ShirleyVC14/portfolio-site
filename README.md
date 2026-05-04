@@ -1,4 +1,4 @@
-ortfolio Website
+Portfolio Website
 Description
 
 This project is a personal portfolio website built using HTML and CSS. It was one of my first projects and was designed to showcase basic web development skills, including page layout, styling, and structuring content.
